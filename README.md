@@ -1,6 +1,6 @@
 # 🚖 Rapido Bangalore Analytics Dashboard
 
-An interactive Power BI dashboard built to analyze ride performance, revenue, and operational insights for Rapido Bangalore.
+Interactive Power BI dashboard analyzing Rapido Bangalore ride performance, revenue, service insights, and payment analytics.
 
 ---
 
